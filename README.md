@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=anton1110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="anton1110" /> </p>
 <br>
 <div align="center">
+  <img title="Solidity" alt="solidity" src="https://img.shields.io/badge/Solidity-solidity-blue />
+  <img title="Smart" alt="smart" src="https://img.shields.io/badge/Smart%20contract-smart-orange" />
+  <img title="web3" alt="web3" src="https://img.shields.io/badge/Web3.js-web3-yellow" />
+  <img title="Rust" alt="rust" src="https://img.shields.io/badge/Rust-rust-red" />
+  <br>
   <img title="HTML-5" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img title="CSS-3" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img title="JavaScript" alt="Javascipt" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
