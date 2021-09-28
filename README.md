@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi, I'm Anton Pavlov </h1>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anton1110&show_icons=true&hide_border=true&theme=tokyonight" alt="anton1110" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaeron&hide_border=true&theme=tokyonight" alt="anton1110" /> </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=gaearon&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="anton1110" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anton1110&show_icons=true&hide_border=true&theme=tokyonight" alt="anton1110" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anton1110&hide_border=true&theme=tokyonight" alt="anton1110" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=anton1110&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="anton1110" /> </p>
 <br>
 <div align="center">
   <img title="Solidity" alt="solidity" src="https://img.shields.io/badge/Solidity-solidity-blue/?logo=appveyor" />
